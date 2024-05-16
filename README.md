@@ -35,5 +35,5 @@
 ![image](https://github.com/anantaYSR/pa-praktikum-iot-unmul-a1/assets/93465182/6c890983-1c4b-4cb8-b42f-db8880112d56)
 
 
-
 ## Link Video : 
+https://drive.google.com/file/d/1P57x0DhQ28MroAd-JIDnVFBfEhfvhpcq/view?usp=sharing 
