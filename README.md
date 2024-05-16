@@ -1,4 +1,4 @@
-# POSTTEST 4 - PRAKTIKUM - IoT - UNMUL - 2024
+# Implementasi Sistem IOT untuk Peringatan Dini Kebocoran Gas dengan Sensor, Alarm dan Baterai
 
 Kelompok A1 :
 - 2109106024 - Ananta Yusra P. A.
