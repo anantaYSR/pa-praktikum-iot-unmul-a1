@@ -1,6 +1,6 @@
 # Implementasi Sistem IOT untuk Peringatan Dini Kebocoran Gas dengan Sensor, Alarm dan Baterai
 
-Kelompok A1 :
+## Kelompok A1 :
 - 2109106024 - Ananta Yusra P. A.
 - 2109106026 - Bayu Setiawan
 - 2109106011 - Ilham Ramadhan
