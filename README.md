@@ -31,7 +31,6 @@
 11.	BreadBoard x 2 
 
 ## Board Schematic
-Schematic :
 ![image](https://github.com/anantaYSR/pa-praktikum-iot-unmul-a1/assets/93465182/fe6b2a5c-c409-415f-b1e2-fbdf5714486d)
 ![image](https://github.com/anantaYSR/pa-praktikum-iot-unmul-a1/assets/93465182/6c890983-1c4b-4cb8-b42f-db8880112d56)
 
